@@ -1,5 +1,16 @@
 # Comparison of fgwas and Deep Learning for Functional Genomics in GWAS Analysis
 
+## Introduction
+Genome-wide association studies (GWAS) have been instrumental in identifying genetic variants associated with various traits and diseases. However, interpreting these associations remains a challenge. Functional genomics approaches, such as **fgwas**, allow for the incorporation of genomic annotations to improve the prioritization of causal variants. Meanwhile, **Deep Learning (DL)** offers a data-driven approach that can learn complex interactions between genomic features. 
+
+Comparing **fgwas** and **Deep Learning** is essential to:
+- Evaluate the effectiveness of traditional statistical models versus modern machine learning techniques.
+- Identify whether deep learning models can uncover novel insights beyond what **fgwas** can achieve.
+- Determine the trade-offs in terms of interpretability, computational efficiency, and predictive accuracy.
+
+I will try to provide a step-by-step comparison of these two methods, including data preparation, model implementation, and performance evaluation.
+
+
 ## 1. Step 1: Data Preparation
 Before applying **fgwas** and a **Deep Learning model**, it's crucial to preprocess and normalize the dataset.
 

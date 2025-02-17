@@ -160,4 +160,9 @@ print(top_dl)
 4. **Compare Results** (Correlation, AUC, Top SNPs) ✅
 5. **Interpretation and Discussion** ✅
 
-Let me know if you want improvements or optimizations in any part! 🚀
+## Author
+
+**Etienne Ntumba Kabongo**  
+📧 Email: [etienne.ntumba.kabongo@umontreal.ca](mailto:etienne.ntumba.kabongo@umontreal.ca)  
+🔗 GitHub: [EtienneNtumba](https://github.com/EtienneNtumba)
+
